@@ -1,0 +1,10 @@
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe.config
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.exe
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\bin\Debug\Genetik_Algoritma.pdb
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.exe
+C:\Users\cengi\Desktop\C#\Genetik_Algoritma\obj\Debug\Genetik_Algoritma.pdb
